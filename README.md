@@ -42,25 +42,25 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO1">
-        <img src="./assets/project-one.png" alt="Project 1" width="100%" />
+        <img src="" />
       </a>
       <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/REPO1">Project 1 name</a></b>
-      <br/>One-line description.
+      <b><a href="https://github.com/shubhampadhy512/GameApp">KhataBook-Wholesale</a></b>
+      <br/> Khatabook-style ledger app for managing wholesale accounts and transactions.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="https://example.com">Live Demo</a>
+      <br/><a href="https://teknack.itch.io/the-upside-down">Live Demo</a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO2">
-        <img src="./assets/project-two.png" alt="Project 2" width="100%" />
+        <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="Project 1" width="100%" alt="Project 2" width="100%" />
       </a>
       <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/REPO2">Project 2 name</a></b>
-      <br/>One-line description.
+      <b><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">The Upside Down</a></b>
+      <br/>Unity game project built with C#, developed over 39 commits.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="https://example.com">Live Demo</a>
+      <br/><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">Live Demo</a>
     </td>
-    <td align="center" width="33%">
+    <!-- <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO3">
         <img src="./assets/project-three.png" alt="Project 3" width="100%" />
       </a>
@@ -69,7 +69,7 @@
       <br/>One-line description.
       <br/><code>Unity</code> <code>C#</code>
       <br/><a href="https://example.com">Live Demo</a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
