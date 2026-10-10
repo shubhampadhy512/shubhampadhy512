@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="./assets/profile-dashboard.svg"
+       alt="Shubham Padhy developer dashboard"
+       width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Shubham Padhy 👋</h1>
 
 <h3 align="center">Full-Stack Developer | MERN Stack | Game Development</h3>
