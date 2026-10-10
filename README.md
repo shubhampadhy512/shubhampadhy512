@@ -36,3 +36,19 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhampadhy512&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampadhy512&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhampadhy512&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
