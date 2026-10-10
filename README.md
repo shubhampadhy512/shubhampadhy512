@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**shubhampadhy512/shubhampadhy512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shubham Padhy</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Developer | Web Development | Game Development
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Development;Unity+%26+C%23+Game+Development;Exploring+Search+Engine+Development&font=Fira+Code&center=true&width=650&height=45&color=36BCF7&vCenter=true&size=22" alt="Animated introduction" />
+</p>
+
+## 👨‍💻 About Me
+
+- 🌱 Learning and building software projects
+- 🌐 Interested in web and full-stack development
+- 🎮 Exploring Unity and C# game development
+- 🔎 Interested in search engine development
+- 🗄️ Working with MySQL and exploring databases
+- 💡 Always curious to learn new technologies
+
+## 🛠️ Technologies & Skills
+
+- **Languages:** Java, JavaScript, C#
+- **Web:** HTML, CSS, React.js, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Game Development:** Unity
+- **Interests:** Search Engine Development
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Shubham Padhy](https://www.linkedin.com/in/shubham-padhy-467749355/)
+
+---
+
+⭐ Thanks for visiting my profile!
