@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Development;Unity+%26+C%23+Game+Development;Exploring+Search+Engine+Development&font=Fira+Code&center=true&width=650&height=45&color=36BCF7&vCenter=true&size=22" alt="Animated introduction" />
+  <img src="./Futuristic Full-Stack Developer Portfolio Banner.png" alt="Animated introduction" />
 </p>
 
 ## 👨‍💻 About Me
