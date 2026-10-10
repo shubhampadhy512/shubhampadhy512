@@ -1,54 +1,62 @@
 
-<p align="center">
-  <img src="./Futuristic%20Full-Stack%20Developer%20Portfolio%20Banner.png" alt="Shubham Padhy - Full-Stack MERN Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shubham Padhy</h1>
 
-<h3 align="center">
-  Developer | Web Development | Game Development
-</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Development;Unity+%26+C%23+Game+Development;Exploring+Search+Engine+Development&font=Fira+Code&center=true&width=650&height=45&color=36BCF7&vCenter=true&size=22" alt="Animated introduction" />
+  <a href="https://www.linkedin.com/in/shubham-padhy-467749355/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://github.com/shubhampadhy512">
+    GitHub
+  </a>
 </p>
+
+---
+
 ## 👨‍💻 About Me
 
-- 🌱 Learning and building software projects
-- 🌐 Interested in web and full-stack development
-- 🎮 Exploring Unity and C# game development
+- 🌱 Developing my skills in full-stack web development
+- 💻 Interested in building modern web applications
+- 🛠️ Exploring the MERN stack
+- 🎮 Interested in Unity and C# development
 - 🔎 Interested in search engine development
-- 🗄️ Working with MySQL and exploring databases
-- 💡 Always curious to learn new technologies
 
-## 🛠️ Technologies & Skills
+## 🚀 Tech Stack
 
-- **Languages:** Java, JavaScript, C#
-- **Web:** HTML, CSS, React.js, Node.js, Express.js
-- **Databases:** MySQL, MongoDB
-- **Game Development:** Unity
-- **Interests:** Search Engine Development
+**Frontend:** HTML, CSS, JavaScript, React
 
-## 🔗 Connect With Me
+**Backend:** Node.js, Express.js
 
-- LinkedIn: [Shubham Padhy](https://www.linkedin.com/in/shubham-padhy-467749355/)
+**Database:** MongoDB, MySQL
 
----
+**Languages:** JavaScript, Java, C#
 
-⭐ Thanks for visiting my profile!
+**Tools:** Git, GitHub, VS Code
 
----
+## 📌 Featured Projects
 
-## 📊 GitHub Stats
+Add your best projects here as you complete them.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhampadhy512&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampadhy512&layout=compact&theme=tokyonight" height="165" />
-</p>
+- **Project 1:** Add project name, description, and repository link.
+- **Project 2:** Add project name, description, and repository link.
+- **Project 3:** Add project name, description, and repository link.
 
-## 🔥 Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhampadhy512&theme=tokyonight" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhampadhy512&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampadhy512&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shubham-padhy-467749355/
+- GitHub: https://github.com/shubhampadhy512
+
+---
+<p align="center">Thanks for visiting my profile! ⭐</p>
