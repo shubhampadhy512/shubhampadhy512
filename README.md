@@ -41,24 +41,24 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/shubhampadhy512/REPO1">
-        <img src="" />
+      <a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">
+        <img src="Screenshot 2026-10-10 173204.png" />
       </a>
       <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/GameApp">KhataBook-Wholesale</a></b>
+      <b><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">KhataBook-Wholesale</a></b>
       <br/> Khatabook-style ledger app for managing wholesale accounts and transactions.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="https://teknack.itch.io/the-upside-down">Live Demo</a>
+      <br/><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">Live Demo</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/shubhampadhy512/REPO2">
+      <a href="https://github.com/shubhampadhy512/GameApp">
         <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="Project 1" width="100%" alt="Project 2" width="100%" />
       </a>
       <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">The Upside Down</a></b>
+      <b><a href="https://github.com/shubhampadhy512/GameApp">The Upside Down</a></b>
       <br/>Unity game project built with C#, developed over 39 commits.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">Live Demo</a>
+      <br/><a href="https://github.com/shubhampadhy512/GameApp">Live Demo</a>
     </td>
     <!-- <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO3">
