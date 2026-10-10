@@ -57,8 +57,8 @@
       <br/><br/>
       <b><a href="https://github.com/shubhampadhy512/GameApp">The Upside Down</a></b>
       <br/>Unity game project built with C#, developed over 39 commits.
-      <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="https://github.com/shubhampadhy512/GameApp">Live Demo</a>
+      <br/><code>Unity</code> <code>C#</code>
+      <br/><a href="https://teknack.itch.io/the-upside-down">Live Demo</a>
     </td>
     <!-- <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO3">
