@@ -33,8 +33,49 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,cs,unity,git,github" alt="Technology skills" />
+  <img src="https://img.shields.io/badge/Technologies-I%20Love-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Technologies I Love"/>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css" alt="Programming Languages"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚛️ Frontend Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,redux,reactrouter" alt="Frontend Technologies"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & Authentication</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎮 Game Development</h3>
+      <img src="https://skillicons.dev/icons?i=unity,cs" alt="Game Development"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Development Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,canva" alt="Development Tools"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
