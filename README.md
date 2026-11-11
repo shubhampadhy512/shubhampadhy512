@@ -89,7 +89,7 @@
       <b><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">KhataBook-Wholesale</a></b>
       <br/> Khatabook-style ledger app for managing wholesale accounts and transactions.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
-      <br/><a href="[https://latest-khatabook.vercel.app/]">Live</a>
+      <br/><a href="https://latest-khatabook.vercel.app/">Live Project</a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/GameApp">
