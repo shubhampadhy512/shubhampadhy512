@@ -83,7 +83,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/GameApp">
-        <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="Project 1" width="100%" alt="Project 2" width="100%" />
+        <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="The Upside Down" width="100%" />
       </a>
       <br/><br/>
       <b><a href="https://github.com/shubhampadhy512/GameApp">The Upside Down</a></b>
@@ -93,42 +93,40 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">
-        <img src="Screenshot 2026-10-10 173204.png" />
+        <img src="./Screenshot%202026-10-10%20173204.png" alt="KhataBook-Wholesale" width="100%" />
       </a>
       <br/><br/>
       <b><a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">KhataBook-Wholesale</a></b>
-      <br/> Khatabook-style ledger app for managing wholesale accounts and transactions.
+      <br/>Khatabook-style ledger app for managing wholesale accounts and transactions.
       <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code>
       <br/><a href="https://latest-khatabook.vercel.app/">Live Project</a>
     </td>
     <td align="center" width="33%">
-  <a href="https://github.com/shubhampadhy512/MutliTaskAi">
-    <img src="77b9fc62-3312-4b6f-8ca3-e167fd29caf0.png" />
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/shubhampadhy512/MutliTaskAi">MultiTask.Ai</a></b>
-  <br/>AI-powered platform with intelligent agents for chat, web search, coding, image generation, PDF, and PPT tasks.
-  <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Redis</code> <code>LangChain</code> <code>LangGraph</code>
-  <br/><a href="https://github.com/shubhampadhy512/MutliTaskAi">Live Project</a>
-</td>
-    <!-- <td align="center" width="33%">
-      <a href="https://github.com/shubhampadhy512/REPO3">
-        <img src="./assets/project-three.png" alt="Project 3" width="100%" />
+      <a href="https://github.com/shubhampadhy512/MutliTaskAi">
+        <img src="./77b9fc62-3312-4b6f-8ca3-e167fd29caf0.png" alt="MultiTask.Ai" width="100%" />
       </a>
       <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/REPO3">Project 3 name</a></b>
-      <br/>One-line description.
-      <br/><code>Unity</code> <code>C#</code>
-      <br/><a href="https://example.com">Live Demo</a>
-    </td> -->
+      <b><a href="https://github.com/shubhampadhy512/MutliTaskAi">MultiTask.Ai</a></b>
+      <br/>AI-powered platform with intelligent agents for chat, web search, coding, image generation, PDF, and PPT tasks.
+      <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Redis</code> <code>LangChain</code> <code>LangGraph</code>
+      <br/><a href="https://github.com/shubhampadhy512/MutliTaskAi">Live Project</a>
+    </td>
   </tr>
 </table>
 
+
+<!--
+  If these cards show an error, the shared server is rate limited.
+  Fix: deploy your own copy of github-readme-stats on Vercel (with a PAT_1 token),
+  then replace "github-readme-stats.vercel.app" below with your own domain.
+-->
+
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhampadhy512&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampadhy512&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top programming languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhampadhy512&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhampadhy512&theme=tokyonight" height="165" alt="Top programming languages" />
 </p>
 
 ## 🔥 Contribution Streak
