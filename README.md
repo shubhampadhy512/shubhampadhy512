@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="33%">
   <a href="https://github.com/shubhampadhy512/MutliTaskAi">
-    <img src="Screenshot 2026-11-11 173204.png" />
+    <img src="77b9fc62-3312-4b6f-8ca3-e167fd29caf0.png" />
   </a>
   <br/><br/>
   <b><a href="https://github.com/shubhampadhy512/MutliTaskAi">MultiTask.Ai</a></b>
