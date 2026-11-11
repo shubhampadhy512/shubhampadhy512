@@ -82,6 +82,16 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/shubhampadhy512/GameApp">
+        <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="Project 1" width="100%" alt="Project 2" width="100%" />
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/shubhampadhy512/GameApp">The Upside Down</a></b>
+      <br/>Unity game project built with C#, developed over 39 commits.
+      <br/><code>Unity</code> <code>C#</code>
+      <br/><a href="https://teknack.itch.io/the-upside-down">Live Demo</a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/KhataBook-Wholesale">
         <img src="Screenshot 2026-10-10 173204.png" />
       </a>
@@ -92,15 +102,15 @@
       <br/><a href="https://latest-khatabook.vercel.app/">Live Project</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/shubhampadhy512/GameApp">
-        <img src="https://img.itch.zone/aW1hZ2UvNDQwMjk0NC8yNjI1MDM2Ni5qcGVn/original/cah4Db.jpeg" alt="Project 1" width="100%" alt="Project 2" width="100%" />
-      </a>
-      <br/><br/>
-      <b><a href="https://github.com/shubhampadhy512/GameApp">The Upside Down</a></b>
-      <br/>Unity game project built with C#, developed over 39 commits.
-      <br/><code>Unity</code> <code>C#</code>
-      <br/><a href="https://teknack.itch.io/the-upside-down">Live Demo</a>
-    </td>
+  <a href="https://github.com/shubhampadhy512/MutliTaskAi">
+    <img src="Screenshot 2026-11-11 173204.png" />
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/shubhampadhy512/MutliTaskAi">MultiTask.Ai</a></b>
+  <br/>AI-powered platform with intelligent agents for chat, web search, coding, image generation, PDF, and PPT tasks.
+  <br/><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Redis</code> <code>LangChain</code> <code>LangGraph</code>
+  <br/><a href="https://github.com/shubhampadhy512/MutliTaskAi">Live Project</a>
+</td>
     <!-- <td align="center" width="33%">
       <a href="https://github.com/shubhampadhy512/REPO3">
         <img src="./assets/project-three.png" alt="Project 3" width="100%" />
