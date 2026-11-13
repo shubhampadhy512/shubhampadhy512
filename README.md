@@ -52,13 +52,13 @@
   <tr>
     <td align="center" width="50%">
       <h3>⚙️ Backend & Authentication</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express," alt="Backend Technologies"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </td>
     <td align="center" width="50%">
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases"/>
     </td>
   </tr>
   <tr>
